@@ -1,0 +1,6 @@
+.loading{
+  display: grid;
+  place-items:center;
+  margin-top:8em;
+  color: green;
+}
